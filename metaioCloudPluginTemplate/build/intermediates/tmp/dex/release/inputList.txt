@@ -1,0 +1,6 @@
+/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/classes/release
+/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/release/support-annotations-21.0.2-6bf7cba937b5baaa42eecf51abacdeb891b68549.jar
+/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/release/classes-2ea02906ef6672798fdd36469a037ac73b5b6102.jar
+/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/release/internal_impl-21.0.2-2f23fb7d3696c6845b8ec0f8bd000fbecd121d2c.jar
+/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/release/metaiosdk-285b45009eed972d1328a844a6a7c3cbd90cbade.jar
+/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/release/classes-c0ff5da715e6c13cd612c1c22021f89080cacb1b.jar

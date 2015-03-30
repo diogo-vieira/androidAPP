@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/exploded-aar/androidAPP/MetaioSDK/unspecified/libs/metaiosdk.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c8d9e3d40ae2b65f4ef4adf7ddc62e484388b37">
+        <dex dex="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/debug/metaiosdk-285b45009eed972d1328a844a6a7c3cbd90cbade.jar" />
+    </item>
+    <item
+        jar="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/exploded-aar/androidAPP/MetaioSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="623323688b2b75b14e1e3673949e03ee1a77e7cf">
+        <dex dex="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/debug/classes-2ea02906ef6672798fdd36469a037ac73b5b6102.jar" />
+    </item>
+    <item
+        jar="/Users/diogovieira/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-6bf7cba937b5baaa42eecf51abacdeb891b68549.jar" />
+    </item>
+    <item
+        jar="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-2f23fb7d3696c6845b8ec0f8bd000fbecd121d2c.jar" />
+    </item>
+    <item
+        jar="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/diogovieira/Documents/WORK/Casas em revista/androidAPP/metaioCloudPluginTemplate/build/intermediates/pre-dexed/debug/classes-c0ff5da715e6c13cd612c1c22021f89080cacb1b.jar" />
+    </item>
+
+</items>
